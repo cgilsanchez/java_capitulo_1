@@ -1,5 +1,5 @@
 public class Ejercicio1{
     public static void main(String[] args) {
-        System.out.println("HOla mundo");
+        System.out.println("Adios mundo");
     }
 }
