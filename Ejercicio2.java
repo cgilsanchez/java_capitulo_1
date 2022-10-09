@@ -1,6 +1,7 @@
 public class Ejercicio2 {
   public static void main(String[]args){
-    String cadena = new String("C/Leopoldo Alas Clarin\644743172");
+    System.out.print("Leopoldo  Alas Clarin\n");
+    System.out.print("644743172");
       
 }
   }
